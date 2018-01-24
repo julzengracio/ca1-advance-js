@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+#difficulty {
+    font-size: 20px;
+    color: green;
+    text-transform: uppercase;
+}
+
+#score {
+    font-size: 20px;
+}
+
+#highScore {
+    font-size: 20px;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+table th, table td {
+    padding: 20px;
+}
+
+.headers {
+    font-size: 24px;
+}
